@@ -1,0 +1,73 @@
+
+body{
+    
+    min-height: 100vh;
+    font-family: sans-serif;
+    width: 1000px;
+    margin: auto;
+    border-left: 5px solid lightgray;
+}
+.all{
+    padding: 1rem 2rem ;
+}
+h1{
+    color: tomato;
+    font-size: 75px;
+}
+h2{
+    font-size: 38px;
+}
+img{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+
+.topNav{
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: lightgray;
+}
+ .topNav > li > a{
+   color: lightgray;
+}
+.bottomNav > li > a{
+    color: tomato;
+ }
+
+.bottomNav{
+    padding: 0%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: tomato;
+}
+
+.article span{
+    font-size: 32px;
+    color: lightgray;
+}
+ .continues{
+    float: right;
+    clear: both;
+    font-weight: bold;
+    color: tomato;
+}
+.article{
+    margin-bottom: 4rem;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 2rem;
+}
+.article p::first-letter {
+    color: lightgray;
+    font-size:75px; /* Adjust the size as per your requirement */
+    float: left;
+    margin-right: 0.5em; /* Add some spacing between the drop cap and the text */
+  }
+
+ .copyRight{
+    color: lightgray;
+}
