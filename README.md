@@ -1,3 +1,3 @@
-# [Netlify Live Link](Netlify link here)
-# [GitHub Pages Live Link](GitHub Pages link of HTML version)
-# [GitHub Link of HTML Version](GitHub link for HTML version)
+# [Netlify Live Link] https://fashion-blog-react-lab.netlify.app/
+# [GitHub Pages Live Link] https://itsok2cry.github.io/Fashion-blog-Project/
+# [GitHub Link of HTML Version] https://github.com/itsok2cry/Fashion-blog-Project/
